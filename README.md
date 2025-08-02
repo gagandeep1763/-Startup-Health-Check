@@ -6,6 +6,16 @@ This is a simple web application that predicts whether a startup will be acquire
 
 The application is built with Flask and uses a pre-trained machine learning model to make predictions. The model takes the following inputs:
 
+## Objectives
+Build a machine learning model to classify startup outcomes.
+
+Develop a user-friendly web interface using Flask and HTML/CSS.
+
+Provide insights for investors, entrepreneurs, and analysts.
+
+Host the application online using Render for public use.
+
+
 - **Name of Organization:** The name of the startup.
 - **Total Funding (USD):** The total amount of funding the startup has received.
 - **Milestones:** The number of milestones the startup has achieved.
