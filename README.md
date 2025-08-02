@@ -17,11 +17,10 @@ Host the application online using Render for public use.
 
 
 - **Name of Organization:** The name of the startup.
-- **Total Funding (USD):** The total amount of funding the startup has received.
-- **Milestones:** The number of milestones the startup has achieved.
-- **Funding Rounds:** The number of funding rounds the startup has gone through.
-- **Relationships:** The number of relationships the startup has.
-
+- **Total Funding (USD):** Higher funding often indicates investor confidence and more resources to grow.
+- **Milestones:** More milestones show progress and achievements, suggesting a healthy trajectory.
+- **Funding Rounds:** Multiple rounds suggest sustained investor interest and validation over time.
+- **Relationships:** Strong networks (e.g., founders, advisors, investors) can boost growth and opportunity.
 The model then predicts the outcome for the startup.
 
 ## Getting Started
