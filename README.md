@@ -78,3 +78,9 @@ The prediction model is a pre-trained Random Forest classifier saved in `model.p
      macro avg       0.75      0.74      0.74       185
   weighted avg       0.76      0.77      0.77       185
   ```
+
+Developed By
+
+Gagandeep D
+
+Google Certified UI/UX Designer
