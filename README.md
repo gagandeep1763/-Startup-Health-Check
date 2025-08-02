@@ -2,6 +2,10 @@
 
 This is a simple web application that predicts whether a startup will be acquired (success) or close down (failure) based on a few key metrics.
 
+## 📸 Demo Screenshot
+
+![Startup Health Check UI](https://github.com/gagandeep1763/Startup-Health-Check/blob/main/Image.png?raw=true)
+
 ## Project Overview
 
 The application is built with Flask and uses a pre-trained machine learning model to make predictions. The model takes the following inputs:
