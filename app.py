@@ -30,7 +30,7 @@ def index():
 
             # Make prediction
             pred = model.predict(input_df)[0]
-            prediction = "✅ Startup will be Acquired (Success)" if pred == 1 else "❌ Startup is likely to Close (Failure)"
+            prediction = "✅ Startup will be Success" if pred == 1 else "❌ Startup is likely to be a Failure"
 
         except Exception as e:
             prediction = f"⚠️ Error: {e}"
